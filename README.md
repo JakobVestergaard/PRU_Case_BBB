@@ -14,5 +14,5 @@ https://github.com/derekmolloy/exploringBB/blob/version2/chp15/pru/blinkLED/Make
 
 1. Start PRUs if not started
 2. In the correct folder use: "make install-pru0/1"
-  Notice that the binary must have the same name as the project folder. And it must be placed in /<projectname>/gen/projectname.out
+Note: the binary must have the same name as the project folder. And it must be placed in /<projectname>/gen/projectname.out
   
