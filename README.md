@@ -1,4 +1,6 @@
 # PRU_Case_BBB
+This program is meant to be run on a beaglebone black, but will work on the pocket version as well. 
+
 A program that shows the difference between PRU and OS run software on the beaglebone. 
 Using P9-26 as input and P9-30 as output. 
 
